@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <title>icon</title>
+  <g style="isolation: isolate">
+    <g id="Layer_1" data-name="Layer 1">
+      <circle cx="622.14" cy="583.12" r="222.79" style="fill: #ef4923;fill-opacity: 0.78;stroke: #ef4923;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <g style="opacity: 0.76">
+        <path d="M544.11,388.6c0,89.78-60.83,165.36-143.51,187.77a195,195,0,0,1-51,6.75c-107.43,0-194.52-87.09-194.52-194.52s87.09-194.51,194.52-194.51S544.11,281.17,544.11,388.6Z" style="fill: #6ac1e5;opacity: 0.85;mix-blend-mode: hard-light"/>
+        <path d="M544.11,388.6c0,89.78-60.83,165.36-143.51,187.77a195,195,0,0,1-51,6.75c-107.43,0-194.52-87.09-194.52-194.52s87.09-194.51,194.52-194.51S544.11,281.17,544.11,388.6Z" style="fill: none;stroke: #6bc1e5;stroke-miterlimit: 10;stroke-width: 5px"/>
+      </g>
+      <path d="M438.08,460.52c38.48-60.38,104-83.14,104-83.14s2,71.31-37.8,123.8c-41.67,55-101.71,73.19-101.71,73.19S399.35,521.3,438.08,460.52Z" style="fill: #8048f3;opacity: 0.5"/>
+    </g>
+  </g>
+</svg>
